@@ -42,8 +42,6 @@ Currently diving deep into **Generative AI** to build next-gen, dynamic user exp
 
 ---
 
----
-
 ✨ **Fun fact:** I love blending creativity with logic — coding is my art form!  
 
 ---
